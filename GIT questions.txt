@@ -121,4 +121,4 @@ hosting. All the three are services for hosting Git repositories
 
 16. What do you understand about the Git merge conflict?
 A Git merge conflict is an event that occurs when Git is unable to resolve the differences in code between the two commits automatically. 
-
+ done
